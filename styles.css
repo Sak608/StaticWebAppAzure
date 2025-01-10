@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+
+p{
+    color:brown;
+}
+
+button {
+    background-color: burlywood;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
